@@ -1,0 +1,1 @@
+sprite_index = sp_vessel2_idle_side
